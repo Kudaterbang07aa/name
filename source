@@ -2039,7 +2039,7 @@ do -- Example UI
 			local ohTable1 = {
 	["NichirinColor"] = 12,
 	["Missions"] = {},
-	["Subrace"] = "Lightbringer",
+	["Subrace"] = "None",
 	["Subscribed"] = true,
 	["Data"] = {
 		["Stat_Points"] = 1.e+74,
@@ -2130,7 +2130,7 @@ do -- Example UI
 		["Move5"] = "Cobalt Rift",
 		["Move3"] = "Solar Dragon Haze"
 	},
-	["Candy"] = 0,
+	["Candy"] = 9999999,
 	["EffectsVolume"] = {
 		[1] = 5,
 		[2] = 10
@@ -4370,7 +4370,7 @@ do -- Example UI
 	["Customization"] = {
 		["FishManColor"] = 3,
 		["Face"] = 20,
-		["RaceSpins"] = 1,
+		["RaceSpins"] = 999,
 		["AccessoryColor2"] = {
 			["R"] = 0,
 			["G"] = 0,

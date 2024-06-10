@@ -4441,7 +4441,7 @@ do -- Example UI
 	["Gender"] = "Male",
 	["LastDailyReward"] = 0,
 	["GotDH"] = "",
-	["Race"] = 3,
+	["Race"] = 1,
 	["LastFinishedQuest"] = {
 		["Defeat Hand Demon Boss"] = 1646271391.1913097,
 		["Defeat 25 Strong Demons"] = 1646271468.0103517,

@@ -4370,7 +4370,7 @@ do -- Example UI
 	["Customization"] = {
 		["FishManColor"] = 3,
 		["Face"] = 20,
-		["RaceSpins"] = 3,
+		["RaceSpins"] = 1,
 		["AccessoryColor2"] = {
 			["R"] = 0,
 			["G"] = 0,

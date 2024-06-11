@@ -2121,7 +2121,7 @@ do -- Example UI
 	},
 	["New"] = true,
 	["PickedGender"] = true,
-	["Power"] = "Blue Flame Breathing",
+	["Power"] = "Stone Breathing",
 	["KeyBinds"] = {
 		["Move2"] = "Dancing Flash",
 		["Move6"] = "Sapphire Sun",

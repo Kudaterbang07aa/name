@@ -4418,7 +4418,7 @@ do -- Example UI
 		[1] = 0,
 		[2] = 60
 	},
-	["ThirdPower"] = "Sun Breathing",
+	["ThirdPower"] = {},
 	["SecondaryPower"] = "Hantengu",
 	["PlacesUnlocked"] = {
 		[1] = 5326145070

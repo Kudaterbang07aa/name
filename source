@@ -2039,7 +2039,7 @@ do -- Example UI
 			local ohTable1 = {
 	["NichirinColor"] = 12,
 	["Missions"] = {},
-	["Subrace"] = "None",
+	["Subrace"] = "Lightbringer",
 	["Subscribed"] = true,
 	["Data"] = {
 		["Stat_Points"] = 1.e+74,
@@ -2121,7 +2121,7 @@ do -- Example UI
 	},
 	["New"] = true,
 	["PickedGender"] = true,
-	["Power"] = "Stone Breathing",
+	["Power"] = "Blue Flame Breathing",
 	["KeyBinds"] = {
 		["Move2"] = "Dancing Flash",
 		["Move6"] = "Sapphire Sun",
@@ -4418,8 +4418,8 @@ do -- Example UI
 		[1] = 0,
 		[2] = 60
 	},
-	["ThirdPower"] = {},
-	["SecondaryPower"] = "Hantengu",
+	["ThirdPower"] = "Sun Breathing",
+	["SecondaryPower"] = "String",
 	["PlacesUnlocked"] = {
 		[1] = 5326145070
 	},
@@ -4441,7 +4441,7 @@ do -- Example UI
 	["Gender"] = "Male",
 	["LastDailyReward"] = 0,
 	["GotDH"] = "",
-	["Race"] = 0,
+	["Race"] = 2,
 	["LastFinishedQuest"] = {
 		["Defeat Hand Demon Boss"] = 1646271391.1913097,
 		["Defeat 25 Strong Demons"] = 1646271468.0103517,

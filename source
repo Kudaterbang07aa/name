@@ -2130,7 +2130,7 @@ do -- Example UI
 		["Move5"] = "Cobalt Rift",
 		["Move3"] = "Solar Dragon Haze"
 	},
-	["Candy"] = 0,
+	["Candys"] = 9999999,
 	["EffectsVolume"] = {
 		[1] = 5,
 		[2] = 10

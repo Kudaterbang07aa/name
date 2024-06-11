@@ -2052,7 +2052,7 @@ do -- Example UI
 				[2] = 100
 			},
 			["Defense"] = {
-				[1] = 10000000000,
+				[1] = 1200,
 				[2] = 100
 			},
 			["Strength"] = {
@@ -2121,14 +2121,14 @@ do -- Example UI
 	},
 	["New"] = true,
 	["PickedGender"] = true,
-	["Power"] = "Stone Breathing",
+	["Power"] = "Blue Flame Breathing",
 	["KeyBinds"] = {
 		["Move2"] = "Dancing Flash",
-		["Move6"] = "Upper Smash",
-		["Move1"] = "Rapid Conquest",
-		["Move4"] = "Polar Stone",
-		["Move5"] = "None",
-		["Move3"] = "None"
+		["Move6"] = "Sapphire Sun",
+		["Move1"] = "Sun Ray Thrust",
+		["Move4"] = "Azure Universe",
+		["Move5"] = "Cobalt Rift",
+		["Move3"] = "Solar Dragon Haze"
 	},
 	["Candy"] = 0,
 	["EffectsVolume"] = {
@@ -4418,8 +4418,10 @@ do -- Example UI
 		[1] = 0,
 		[2] = 60
 	},
-	["ThirdPower"] = "None",
+	["ThirdPower"] = "Sun Breathing",
 	["SecondaryPower"] = "Hantengu",
+	["PlacesUnlocked"] = {
+		[1] = 5326145070
 	},
 	["ThemesVolume"] = {
 		[1] = 3,

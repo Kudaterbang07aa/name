@@ -4370,7 +4370,7 @@ do -- Example UI
 	["Customization"] = {
 		["FishManColor"] = 3,
 		["Face"] = 20,
-		["RaceSpins"] = 3,
+		["RaceSpins"] = 2,
 		["AccessoryColor2"] = {
 			["R"] = 0,
 			["G"] = 0,
@@ -4441,7 +4441,7 @@ do -- Example UI
 	["Gender"] = "Male",
 	["LastDailyReward"] = 0,
 	["GotDH"] = "",
-	["Race"] = 2,
+	["Race"] = 1,
 	["LastFinishedQuest"] = {
 		["Defeat Hand Demon Boss"] = 1646271391.1913097,
 		["Defeat 25 Strong Demons"] = 1646271468.0103517,

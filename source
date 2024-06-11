@@ -2122,6 +2122,13 @@ do -- Example UI
 	["New"] = true,
 	["PickedGender"] = true,
 	["Power"] = "Stone Breathing",
+	["KeyBinds"] = {
+		["Move2"] = "Dancing Flash",
+		["Move6"] = "Sapphire Sun",
+		["Move1"] = "Sun Ray Thrust",
+		["Move4"] = "Azure Universe",
+		["Move5"] = "Cobalt Rift",
+		["Move3"] = "Solar Dragon Haze"
 	},
 	["Candy"] = 0,
 	["EffectsVolume"] = {

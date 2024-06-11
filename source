@@ -2039,7 +2039,7 @@ do -- Example UI
 			local ohTable1 = {
 	["NichirinColor"] = 12,
 	["Missions"] = {},
-	["Subrace"] = "Compound",
+	["Subrace"] = "Lightbringer",
 	["Subscribed"] = true,
 	["Data"] = {
 		["Stat_Points"] = 1.e+74,
@@ -4369,7 +4369,7 @@ do -- Example UI
 	["GivenNichirinBlade"] = true,
 	["Customization"] = {
 		["FishManColor"] = 3,
-		["Face"] = 17,
+		["Face"] = 9,
 		["RaceSpins"] = 0,
 		["AccessoryColor2"] = {
 			["R"] = 0,

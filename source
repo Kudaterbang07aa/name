@@ -4369,7 +4369,7 @@ do -- Example UI
 	["GivenNichirinBlade"] = true,
 	["Customization"] = {
 		["FishManColor"] = 3,
-		["Face"] = 9,
+		["Face"] = 20,
 		["RaceSpins"] = 0,
 		["AccessoryColor2"] = {
 			["R"] = 0,

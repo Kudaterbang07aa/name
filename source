@@ -2080,7 +2080,7 @@ do -- Example UI
 	["Themes"] = true,
 	["DataById"] = {},
 	["Prestige"] = 10,
-	["Clan"] = "Rengoku",
+	["Clan"] = "Kamado",
 	["Keys"] = {
 		["Interact"] = {
 			["Key"] = "E",
@@ -3057,7 +3057,7 @@ do -- Example UI
 		[919] = "Carrot Shot"
 	},
 	["FourthPower"] = "Moon Breathing",
-	["SlayerMark"] = "Kanroji",
+	["SlayerMark"] = "Kamado",
 	["Inbox"] = {},
 	["Faction"] = "",
 	["playerspawn"] = "None",
@@ -4419,7 +4419,7 @@ do -- Example UI
 		[2] = 60
 	},
 	["ThirdPower"] = "Sun Breathing",
-	["SecondaryPower"] = "String",
+	["SecondaryPower"] = "Hantengu",
 	["PlacesUnlocked"] = {
 		[1] = 5326145070
 	},

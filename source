@@ -2121,14 +2121,7 @@ do -- Example UI
 	},
 	["New"] = true,
 	["PickedGender"] = true,
-	["Power"] = "Blue Flame Breathing",
-	["KeyBinds"] = {
-		["Move2"] = "Dancing Flash",
-		["Move6"] = "Sapphire Sun",
-		["Move1"] = "Sun Ray Thrust",
-		["Move4"] = "Azure Universe",
-		["Move5"] = "Cobalt Rift",
-		["Move3"] = "Solar Dragon Haze"
+	["Power"] = "Stone Breathing",
 	},
 	["Candy"] = 0,
 	["EffectsVolume"] = {
@@ -4419,7 +4412,7 @@ do -- Example UI
 		[2] = 60
 	},
 	["ThirdPower"] = "Sun Breathing",
-	["SecondaryPower"] = "String",
+	["SecondaryPower"] = "Hantengu",
 	["PlacesUnlocked"] = {
 		[1] = 5326145070
 	},

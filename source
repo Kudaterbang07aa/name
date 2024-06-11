@@ -2124,11 +2124,11 @@ do -- Example UI
 	["Power"] = "Stone Breathing",
 	["KeyBinds"] = {
 		["Move2"] = "Dancing Flash",
-		["Move6"] = "Sapphire Sun",
-		["Move1"] = "Sun Ray Thrust",
-		["Move4"] = "Azure Universe",
-		["Move5"] = "Cobalt Rift",
-		["Move3"] = "Solar Dragon Haze"
+		["Move6"] = "Upper Smash",
+		["Move1"] = "Rapid Conquest",
+		["Move4"] = "Polar Stone",
+		["Move5"] = "None",
+		["Move3"] = "None"
 	},
 	["Candy"] = 0,
 	["EffectsVolume"] = {
@@ -4420,8 +4420,6 @@ do -- Example UI
 	},
 	["ThirdPower"] = "None",
 	["SecondaryPower"] = "Hantengu",
-	["PlacesUnlocked"] = {
-		[1] = 5326145070
 	},
 	["ThemesVolume"] = {
 		[1] = 3,

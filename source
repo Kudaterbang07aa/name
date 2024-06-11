@@ -2080,7 +2080,7 @@ do -- Example UI
 	["Themes"] = true,
 	["DataById"] = {},
 	["Prestige"] = 10,
-	["Clan"] = "Rengoku",
+	["Clan"] = "Kamado",
 	["Keys"] = {
 		["Interact"] = {
 			["Key"] = "E",
@@ -2130,7 +2130,7 @@ do -- Example UI
 		["Move5"] = "Cobalt Rift",
 		["Move3"] = "Solar Dragon Haze"
 	},
-	["Candys"] = 999,
+	["Candy"] = 0,
 	["EffectsVolume"] = {
 		[1] = 5,
 		[2] = 10
@@ -3057,7 +3057,7 @@ do -- Example UI
 		[919] = "Carrot Shot"
 	},
 	["FourthPower"] = "Moon Breathing",
-	["SlayerMark"] = "Kanroji",
+	["SlayerMark"] = "Kamado",
 	["Inbox"] = {},
 	["Faction"] = "",
 	["playerspawn"] = "None",

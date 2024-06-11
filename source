@@ -2052,7 +2052,7 @@ do -- Example UI
 				[2] = 100
 			},
 			["Defense"] = {
-				[1] = 1200,
+				[1] = 10000000000,
 				[2] = 100
 			},
 			["Strength"] = {
@@ -2121,7 +2121,7 @@ do -- Example UI
 	},
 	["New"] = true,
 	["PickedGender"] = true,
-	["Power"] = "Blue Flame Breathing",
+	["Power"] = "Stone Breathing",
 	["KeyBinds"] = {
 		["Move2"] = "Dancing Flash",
 		["Move6"] = "Sapphire Sun",
@@ -4418,7 +4418,7 @@ do -- Example UI
 		[1] = 0,
 		[2] = 60
 	},
-	["ThirdPower"] = "Sun Breathing",
+	["ThirdPower"] = "Stone Breathing",
 	["SecondaryPower"] = "Hantengu",
 	["PlacesUnlocked"] = {
 		[1] = 5326145070

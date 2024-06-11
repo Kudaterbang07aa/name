@@ -4419,7 +4419,7 @@ do -- Example UI
 		[2] = 60
 	},
 	["ThirdPower"] = "Sun Breathing",
-	["SecondaryPower"] = "String",
+	["SecondaryPower"] = "Hantengu",
 	["PlacesUnlocked"] = {
 		[1] = 5326145070
 	},

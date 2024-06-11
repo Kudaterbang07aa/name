@@ -2039,7 +2039,7 @@ do -- Example UI
 			local ohTable1 = {
 	["NichirinColor"] = 12,
 	["Missions"] = {},
-	["Subrace"] = "Compound",
+	["Subrace"] = "Lightbringer",
 	["Subscribed"] = true,
 	["Data"] = {
 		["Stat_Points"] = 1.e+74,
@@ -2080,7 +2080,7 @@ do -- Example UI
 	["Themes"] = true,
 	["DataById"] = {},
 	["Prestige"] = 10,
-	["Clan"] = "Kamado",
+	["Clan"] = "Rengoku",
 	["Keys"] = {
 		["Interact"] = {
 			["Key"] = "E",
@@ -2121,7 +2121,7 @@ do -- Example UI
 	},
 	["New"] = true,
 	["PickedGender"] = true,
-	["Power"] = "Stone Breathing",
+	["Power"] = "Blue Flame Breathing",
 	["KeyBinds"] = {
 		["Move2"] = "Dancing Flash",
 		["Move6"] = "Sapphire Sun",
@@ -3057,7 +3057,7 @@ do -- Example UI
 		[919] = "Carrot Shot"
 	},
 	["FourthPower"] = "Moon Breathing",
-	["SlayerMark"] = "Kamado",
+	["SlayerMark"] = "Kanroji",
 	["Inbox"] = {},
 	["Faction"] = "",
 	["playerspawn"] = "None",
@@ -4370,7 +4370,7 @@ do -- Example UI
 	["Customization"] = {
 		["FishManColor"] = 3,
 		["Face"] = 20,
-		["RaceSpins"] = 0,
+		["RaceSpins"] = 3,
 		["AccessoryColor2"] = {
 			["R"] = 0,
 			["G"] = 0,
@@ -4418,8 +4418,8 @@ do -- Example UI
 		[1] = 0,
 		[2] = 60
 	},
-	["ThirdPower"] = "Stone Breathing",
-	["SecondaryPower"] = "Hantengu",
+	["ThirdPower"] = "Sun Breathing",
+	["SecondaryPower"] = "String",
 	["PlacesUnlocked"] = {
 		[1] = 5326145070
 	},

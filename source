@@ -2039,7 +2039,7 @@ do -- Example UI
 			local ohTable1 = {
 	["NichirinColor"] = 12,
 	["Missions"] = {},
-	["Subrace"] = "Compound",
+	["Subrace"] = "Lightbringer",
 	["Subscribed"] = true,
 	["Data"] = {
 		["Stat_Points"] = 1.e+74,
